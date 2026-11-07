@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "app"
+		},
+		{
+			"path": "bootstrap"
+		},
+		{
+			"path": "config"
+		},
+		{
+			"path": "database"
+		},
+		{
+			"path": "public"
+		},
+		{
+			"path": "resources"
+		},
+		{
+			"path": "routes"
+		},
+		{
+			"path": "storage"
+		},
+		{
+			"path": "tests"
+		}
+	]
+}
